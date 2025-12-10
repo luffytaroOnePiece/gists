@@ -10,8 +10,8 @@ FILTERS_FILE = "filters.json"
 # -------------------------
 # CDN BASE URLS
 # -------------------------
-AUDIO_CDN_BASE = "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio/main/"
-COVER_CDN_BASE = "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages/main/"
+AUDIO_CDN_BASE = "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/"
+COVER_CDN_BASE = "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/"
 
 AUDIO_EXT = ".mp3"
 COVER_SUFFIX = "-C"
