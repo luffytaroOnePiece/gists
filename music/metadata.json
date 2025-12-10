@@ -1,0 +1,41 @@
+{
+  "songs": [
+    {
+      "id": "ec14786d-a2b7-4ce5-9913-ad4e616dc85d",
+      "title": "Chuttamalle",
+      "singers": [
+        "Shilpa Rao"
+      ],
+      "language": "Telugu",
+      "year": 2024,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio/main/NTCH.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages/main/NTCH-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages/main/Devara.jpg",
+      "album": "Devara: Part 1",
+      "genre": "Romance",
+      "musicBy": "Anirudh Ravichander",
+      "youtube": {
+        "url": "https://youtu.be/QiZFsaCcme4?si=QPErQhvVzEQBk6F1",
+        "formats": "4320p"
+      }
+    },
+    {
+      "id": "857817b9-a5a1-48b4-813e-d120bebc7e30",
+      "title": "Butta Bomma",
+      "singers": [
+        "Armaan Malik"
+      ],
+      "language": "Telugu",
+      "year": 2020,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio/main/BTBM.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages/main/BTBM-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages/main/AlaVaikunthapurramuloo.jpg",
+      "genre": "Romance",
+      "musicBy": "Thaman S",
+      "youtube": {
+        "url": "https://youtu.be/qLwN4KS-DIY?si=PT-f2Pvu6ltSK6Bz",
+        "formats": "4320p"
+      }
+    }
+  ]
+}
