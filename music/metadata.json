@@ -3,7 +3,9 @@
     {
       "id": "ec14786d-a2b7-4ce5-9913-ad4e616dc85d",
       "title": "Chuttamalle",
-      "singers": ["Shilpa Rao"],
+      "singers": [
+        "Shilpa Rao"
+      ],
       "language": "Telugu",
       "year": 2024,
       "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/NTCH.mp3",
@@ -20,7 +22,9 @@
     {
       "id": "857817b9-a5a1-48b4-813e-d120bebc7e30",
       "title": "Butta Bomma",
-      "singers": ["Armaan Malik"],
+      "singers": [
+        "Armaan Malik"
+      ],
       "language": "Telugu",
       "year": 2020,
       "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/BTBM.mp3",
@@ -32,6 +36,45 @@
       "youtube": {
         "url": "https://youtu.be/qLwN4KS-DIY?si=PT-f2Pvu6ltSK6Bz",
         "formats": "4320p"
+      }
+    },
+    {
+      "id": "9060631c-327d-4bf4-9494-0939e315653d",
+      "title": "Daavudi",
+      "singers": [
+        "Akasa Singh",
+        "Nakash"
+      ],
+      "language": "Telugu",
+      "year": 2024,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/NTDAAV.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/NTDAAV-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/Devara.jpg",
+      "album": "Devara: Part 1",
+      "genre": "Dance",
+      "musicBy": "Anirudh Ravichander",
+      "youtube": {
+        "url": "https://youtu.be/A3ws4jpMf0A?si=hHtobXRHhc3mFR-I",
+        "formats": "4320p"
+      }
+    },
+    {
+      "id": "3d1d30ce-fe2c-4b54-99b4-4e047c110d6c",
+      "title": "Red Sea",
+      "singers": [
+        "Anirudh Ravichander"
+      ],
+      "language": "Telugu",
+      "year": 2024,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/NTRS.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/NTRS-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/Devara.jpg",
+      "album": "Devara: Part 1",
+      "genre": "Mass",
+      "musicBy": "Anirudh Ravichander",
+      "youtube": {
+        "url": "https://youtu.be/CKpbdCciELk?si=J-5Fyi9LAJ05mNIj",
+        "formats": "2160p"
       }
     }
   ]
