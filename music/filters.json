@@ -1,28 +1,40 @@
 {
   "languages": [
+    "Japanese",
     "Telugu"
   ],
   "genres": [
+    "Anime",
     "Dance",
     "Mass",
     "Romance"
   ],
   "years": [
+    2018,
+    2019,
     2020,
-    2024
+    2024,
+    2025
   ],
   "singers": [
     "Akasa Singh",
     "Anirudh Ravichander",
     "Armaan Malik",
+    "Idksan",
+    "Kohei Tanaka",
     "Nakash",
-    "Shilpa Rao"
+    "Sanat Sawant",
+    "Shilpa Rao",
+    "Shiro Hamaguchi"
   ],
   "musicBy": [
     "Anirudh Ravichander",
+    "Kohei Tanaka,",
+    "Shiro Hamaguchi",
     "Thaman S"
   ],
   "albums": [
-    "Devara: Part 1"
+    "Devara: Part 1",
+    "One Piece"
   ]
 }

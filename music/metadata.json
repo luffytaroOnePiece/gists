@@ -76,6 +76,63 @@
         "url": "https://youtu.be/CKpbdCciELk?si=J-5Fyi9LAJ05mNIj",
         "formats": "2160p"
       }
+    },
+    {
+      "id": "aaf2ea66-3c66-41d6-957c-dfebddeefcc7",
+      "title": "Drums Of Liberation",
+      "singers": [
+        "Sanat Sawant",
+        "Idksan"
+      ],
+      "language": "Japanese",
+      "year": 2023,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/DRML.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/DRML-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/OnePiece.jpg",
+      "album": "One Piece",
+      "genre": "Anime",
+      "musicBy": "Kohei Tanaka",
+      "youtube": {
+        "url": "https://youtu.be/YZvxXbjUKHM?si=0YUQE8YtYy3q4Eev",
+        "formats": "2160p"
+      }
+    },
+    {
+      "id": "5d02bc86-002c-43aa-a69f-f1e821c9acc8",
+      "title": "OverTaken",
+      "singers": [
+        "Shiro Hamaguchi"
+      ],
+      "language": "Japanese",
+      "year": 1999,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/OPOV.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/OPOV-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/OnePiece.jpg",
+      "album": "One Piece",
+      "genre": "Anime",
+      "musicBy": "Shiro Hamaguchi",
+      "youtube": {
+        "url": "https://youtu.be/daFi4MScfl8?si=t6fSCgkfHGscuhAO",
+        "formats": "1080p"
+      }
+    },
+    {
+      "id": "7407c534-78e9-4d13-9d44-e1fd66d577f8",
+      "title": "Wano",
+      "singers": [
+        "Kohei Tanaka"
+      ],
+      "language": "Japanese",
+      "year": 2019,
+      "audioUrl": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/audio@main/OPWN.mp3",
+      "coverImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/OPWN-C.jpg",
+      "albumImage": "https://cdn.jsdelivr.net/gh/luffytaroOnePiece/coverimages@main/OnePiece.jpg",
+      "album": "One Piece",
+      "genre": "Anime",
+      "youtube": {
+        "url": "https://youtu.be/D8kt3caNYtg?si=DyKi8G5KBDQywIWk",
+        "formats": "1080p"
+      }
     }
   ]
 }
